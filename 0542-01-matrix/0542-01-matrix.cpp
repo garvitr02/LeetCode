@@ -34,14 +34,8 @@ public:
                 int ncol = c + dcol[i];
                 
                 if(nrow >=0 && nrow <m && ncol >= 0 && ncol <n && vis[nrow][ncol] == -1){
-                    // if(mat[nrow][ncol] == 0){
-                    //     q.push({{nrow,ncol},0});
-                    //     vis[nrow][ncol] = 0;
-                    // }
-                    
-                        q.push({{nrow,ncol}, d+1});
-                        vis[nrow][ncol] = d+1;
-                    
+                    q.push({{nrow,ncol}, d+1});
+                    vis[nrow][ncol] = d+1;
                 }
             }
         }
