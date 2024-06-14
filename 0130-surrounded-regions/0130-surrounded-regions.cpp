@@ -2,9 +2,9 @@ class Solution {
     
 private: 
     void dfs(int i, int j, vector<vector<char>> &board, int n, int m, 
-             vector<vector<int>> &vis){
+             vector<vector<char>> &vis){
         
-        vis[i][j] = 1;
+        vis[i][j] = 'O';
         
         int drow[] = {-1,0,1,0};
         int dcol[] = {0,1,0,-1};
@@ -14,8 +14,8 @@ private:
             int nrow = i+drow[z];
             int ncol = j+dcol[z];
             
-            if(nrow >=0 && nrow <n && ncol >= 0 && ncol <m && board[nrow][ncol] == 'O'
-              && vis[nrow][ncol] == 0){
+            if(nrow >=0 && nrow <n && ncol >= 0 && ncol <m && board[nrow][ncol] == 'O' 
+              && vis[nrow][ncol] == 'X'){
                 dfs(nrow,ncol,board,n,m,vis);
             }
         }
@@ -28,12 +28,12 @@ public:
         int n = board.size();
         int m = board[0].size();
         
-        vector<vector<int>> vis(n,vector<int>(m,0));
+        vector<vector<char>> vis(n,vector<char>(m,'X'));
         
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if((i == 0 || i == n-1 || j == 0 || j == m-1) && board[i][j] == 'O' 
-                  && vis[i][j] == 0){
+                  && vis[i][j] == 'X'){
                     dfs(i,j,board,n, m, vis);
                 }
             }
@@ -41,13 +41,7 @@ public:
         
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(vis[i][j] == 1){
-                    board[i][j] = 'O';
-                }
-                else{
-                    board[i][j] = 'X';
-                }
-                
+                board[i][j] = vis[i][j];
             }
         }
         
