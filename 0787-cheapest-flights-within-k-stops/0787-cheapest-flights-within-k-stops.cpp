@@ -30,7 +30,7 @@ public:
                 int price = iter.second;
                 int adjNode = iter.first;
                 
-                if(stops <= k && cost + price <dist[adjNode]){
+                if(cost + price <dist[adjNode]){
                     dist[adjNode] = cost + price;
                     q.push({stops+1,{adjNode,dist[adjNode]}});
                 }
