@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/garvitr02/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/garvitr02/LeetCode/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/garvitr02/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garvitr02/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
