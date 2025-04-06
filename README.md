@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/garvitr02/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/garvitr02/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitr02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/garvitr02/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/garvitr02/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/garvitr02/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/garvitr02/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/garvitr02/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
