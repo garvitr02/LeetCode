@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/garvitr02/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/garvitr02/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/garvitr02/LeetCode/tree/master/0792-binary-search) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvitr02/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/garvitr02/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/garvitr02/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/garvitr02/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/garvitr02/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvitr02/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/garvitr02/LeetCode/tree/master/0075-sort-colors) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvitr02/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvitr02/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/garvitr02/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/garvitr02/LeetCode/tree/master/0792-binary-search) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvitr02/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Linked List
 |  |
 | ------- |
