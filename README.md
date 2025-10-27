@@ -71,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/garvitr02/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/garvitr02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/garvitr02/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvitr02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvitr02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/garvitr02/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/garvitr02/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
